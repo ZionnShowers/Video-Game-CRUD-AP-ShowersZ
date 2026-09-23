@@ -1,0 +1,33 @@
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\appsettings.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\Video Game CRUD AP ShowersZ.staticwebassets.endpoints.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\Video Game CRUD AP ShowersZ.exe
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\Video Game CRUD AP ShowersZ.deps.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\Video Game CRUD AP ShowersZ.runtimeconfig.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\Video Game CRUD AP ShowersZ.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\Video Game CRUD AP ShowersZ.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.csproj.AssemblyReference.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.AssemblyInfoInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.AssemblyInfo.cs
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.csproj.CoreCompileInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\scopedcss\bundle\Video Game CRUD AP ShowersZ.styles.css
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Ga.12B8FA03.Up2Date
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\refint\Video Game CRUD AP ShowersZ.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\Video Game CRUD AP ShowersZ.genruntimeconfig.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Video Game CRUD AP ShowersZ\obj\Debug\net10.0\ref\Video Game CRUD AP ShowersZ.dll
